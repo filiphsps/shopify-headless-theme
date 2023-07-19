@@ -1,6 +1,7 @@
 {
   "current": {
-    "storefront_hostname": "tidy-sloths-worry.loca.lt",
+    "storefront_hostname": "www.sweetsideofsweden.com",
+    "ga4_crossdomain": true,
     "content_for_index": [
 
     ]
