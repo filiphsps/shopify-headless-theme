@@ -2,8 +2,17 @@
   "current": {
     "storefront_hostname": "www.sweetsideofsweden.com",
     "ga4_crossdomain": true,
+    "meta_tags": "<meta name=\"robots\" content=\"noindex\">\n<!-- Google tag (gtag.js) -->\n<script src=\"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-MYZ1KY8NK6\"><\/script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-MYZ1KY8NK6');\n<\/script>",
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "11656770355074664061": {
+        "type": "shopify:\/\/apps\/pasilobus-google-analytics-4\/blocks\/ga4\/a193266a-8f65-4da8-bcba-d9df8d371e21",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    }
   }
 }
